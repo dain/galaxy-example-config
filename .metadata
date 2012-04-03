@@ -5,7 +5,7 @@
     "uri" : "https://oss.sonatype.org/content/repositories/snapshots"
   },
   "releasesRepository" : {
-    "id" : "sonatype-releases",
-    "uri" : "https://oss.sonatype.org/content/repositories/releases"
+    "id" : "sonatype-staging",
+    "uri" : "https://oss.sonatype.org/service/local/staging/deploy/maven2/"
   }
 }
