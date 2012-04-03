@@ -1,0 +1,11 @@
+{
+  "groupId" : "com.proofpoint.galaxy.sample",
+  "snapshotsRepository" : {
+    "id" : "sonatype-snapshots",
+    "uri" : "https://oss.sonatype.org/content/repositories/snapshots"
+  },
+  "releasesRepository" : {
+    "id" : "sonatype-releases",
+    "uri" : "https://oss.sonatype.org/content/repositories/releases"
+  }
+}
