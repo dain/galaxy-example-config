@@ -1,0 +1,8 @@
+[
+  {
+    "type" : "discovery",
+    "properties" : {
+      "http" : "http://${galaxy.host}:8411"
+    }
+  }
+]
